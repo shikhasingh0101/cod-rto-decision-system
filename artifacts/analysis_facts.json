@@ -1,0 +1,32 @@
+{
+  "raw_rows": 2018,
+  "clean_rows": 1987,
+  "duplicate_ids_removed": 30,
+  "nonfinal_rows_excluded": 1,
+  "delivered": 1422,
+  "rto": 565,
+  "rto_rate": 0.2843482637141419,
+  "first_time_n": 1495,
+  "first_time_rto_rate": 0.30234113712374583,
+  "repeat_n": 492,
+  "repeat_rto_rate": 0.22967479674796748,
+  "prior2_n": 34,
+  "prior2_rto_rate": 0.7647058823529411,
+  "meta_n": 765,
+  "meta_rto_rate": 0.31241830065359477,
+  "delhivery_n": 699,
+  "delhivery_rto_rate": 0.2603719599427754,
+  "xpress_n": 391,
+  "xpress_rto_rate": 0.309462915601023,
+  "highest_city": "Gorakhpur",
+  "highest_city_n": 45,
+  "highest_city_rate": 0.6222222222222222,
+  "metrics": {
+    "roc_auc": 0.7149972109331422,
+    "accuracy": 0.738430583501006,
+    "precision_rto": 0.5426356589147286,
+    "recall_rto": 0.49645390070921985,
+    "f1_rto": 0.5185185185185185,
+    "test_rows": 497
+  }
+}
